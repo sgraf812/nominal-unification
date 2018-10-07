@@ -1,0 +1,12 @@
+a. a X ~ b. Y Z
+a. a X ~ b. Y b
+a => a X ~ b => Y b
+a. a X ~ b. Y b
+a ~ X
+a ~ a
+a ~ b
+a ~ b
+x => y => X y
+x => y => x y
+x => y => x y
+x => x
